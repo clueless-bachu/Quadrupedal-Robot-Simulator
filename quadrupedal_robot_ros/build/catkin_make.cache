@@ -1,0 +1,2 @@
+control:deeprl:perception
+-DCATKIN_DEVEL_PREFIX=/home/vasista/Desktop/quadrupedal_robot/devel -DCMAKE_INSTALL_PREFIX=/home/vasista/Desktop/quadrupedal_robot/install -G Unix Makefiles

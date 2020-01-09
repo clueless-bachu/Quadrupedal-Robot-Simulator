@@ -1,0 +1,8 @@
+prefix=/home/vasista/Desktop/quadrupedal_robot/devel
+
+Name: deeprl
+Description: Description of deeprl
+Version: 0.0.0
+Cflags: -I/home/vasista/Desktop/quadrupedal_robot/devel/include
+Libs: -L/home/vasista/Desktop/quadrupedal_robot/devel/lib 
+Requires: message_runtime

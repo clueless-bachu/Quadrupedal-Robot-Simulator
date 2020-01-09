@@ -1,0 +1,8 @@
+prefix=/home/vasista/Desktop/quadrupedal_robot/install
+
+Name: perception
+Description: Description of perception
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/vasista/Desktop/quadrupedal_robot/install/lib 
+Requires: 

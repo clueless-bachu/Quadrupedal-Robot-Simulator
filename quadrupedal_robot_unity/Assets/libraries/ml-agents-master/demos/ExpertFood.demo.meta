@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5e452d2432bc79842b7e93e404a92b8e
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/libraries/ml-agents-master/demos/ExpertFood.demo
+  externalObjects: {}
+  userData: ' (MLAgents.Demonstration)'
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 7bd65ce151aaa4a41a45312543c56be1, type: 3}

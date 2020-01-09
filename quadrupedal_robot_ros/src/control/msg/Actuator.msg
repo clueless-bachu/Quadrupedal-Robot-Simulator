@@ -1,0 +1,13 @@
+Header header
+float64 frontlefttop
+float64 frontleftbottom
+float64 frontrighttop
+float64 frontrightbottom
+float64 backlefttop
+float64 backleftbottom
+float64 backrighttop
+float64 backrightbottom
+float64 flj
+float64 frj
+float64 blj
+float64 brj

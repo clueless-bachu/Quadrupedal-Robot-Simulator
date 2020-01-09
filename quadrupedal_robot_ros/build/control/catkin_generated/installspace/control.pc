@@ -1,0 +1,8 @@
+prefix=/home/vasista/Desktop/quadrupedal_robot/install
+
+Name: control
+Description: Description of control
+Version: 0.0.0
+Cflags: -I/home/vasista/Desktop/quadrupedal_robot/install/include
+Libs: -L/home/vasista/Desktop/quadrupedal_robot/install/lib 
+Requires: message_runtime
